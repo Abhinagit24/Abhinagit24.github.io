@@ -1,3 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
+title: [Abhina Premachandran Bindu]
+description: [Welcome to my website! I am a Data Scientist👩🏻‍💻, Astronomy Enthusiast🔭 , Nature lover🍃. This webpage showcases some of my projects📚 I created utilizing my data science skills🛠️💪🏼👩🏻‍💻.]
