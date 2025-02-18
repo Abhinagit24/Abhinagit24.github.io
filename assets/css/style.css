@@ -1,0 +1,7 @@
+h1.site-title {
+    background: url('https://www.pexels.com/photo/silhouette-of-trees-and-mountain-under-blue-starry-sky-1175136/') no-repeat center center;
+    background-size: cover;
+    padding: 50px; /* Adjust padding as needed */
+    color: white;  /* Ensures visibility */
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
