@@ -16,7 +16,7 @@
 - [Visual Analysis of Palmer Penguin dataset](https://github.com/Abhinagit24/Data-Visualization-lab3.git)
 
 #### Data Engineering Projects
-- [Advanced web scraping project - Master's Thesis project](https://github.com/Abhinagit24/DSEI2400_Final_Project.git)
+- [Advanced web scraping project](https://github.com/Abhinagit24/DSEI2400_Final_Project.git)
 
 #### Undergrad research - python plot
 - [Galaxy Evolution - Undergrad research](https://github.com/Abhinagit24/galaxy-research-2021.git)
