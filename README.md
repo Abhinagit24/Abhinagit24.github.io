@@ -1,6 +1,8 @@
 
 ##### Welcome to my website! I am a Data Scientist👩🏻‍💻, an Astronomy Enthusiast🔭 and a Nature lover🍃. This webpage highlights some of my projects📚 where I have applied my skills in Python, SQL, and R🛠️💪🏼👩🏻‍💻
 
+
+
 #### Machine Learning Projects
 
 - [Variable Star Classifier - Master's Thesis project](https://github.com/Abhinagit24/Classification_of_variable_stars.git)
