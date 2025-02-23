@@ -1,5 +1,5 @@
 
-##### Welcome to my website! I am a Data Scientist👩🏻‍💻, an Astronomy Enthusiast🔭 and a Nature lover🍃. This webpage highlights some of my projects📚 where I have applied my skills in Python, SQL, and R🛠️💪🏼👩🏻‍💻
+##### Welcome to my website! I am a Data Scientist👩🏻‍💻, an Astronomy Enthusiast🔭 and a Nature lover🍃. This webpage highlights some of my projects📚 where I have applied my Data Science skills🛠️💪🏼👩🏻‍💻
 
 
 
