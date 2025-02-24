@@ -15,6 +15,9 @@
 - [Exploratory Data Analysis of the Planet dataset from NASA Exoplanet Archive](https://github.com/Abhinagit24/homework-4-problem-4-exploratory-data-analysis-Abhinagit24.git)
 - [Visual Analysis of Palmer Penguin dataset](https://github.com/Abhinagit24/Data-Visualization-lab3.git)
 
+#### Applied Statistics
+- [Applied Statistics Final Project - Heart Health Indicators](https://github.com/Abhinagit24/Applied-Statistics-Final-Project.git)
+
 #### Data Engineering Projects
 - [Advanced web scraping project](https://github.com/Abhinagit24/DSEI2400_Final_Project.git)
 
