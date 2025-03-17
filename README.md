@@ -1,5 +1,5 @@
 
-##### Welcome to my website! I am a Data Scientist👩🏻‍💻, an Astronomy Enthusiast🔭 and a Nature lover🍃. This webpage highlights some of my projects📚 where I have applied my Data Science skills🛠️💪🏼👩🏻‍💻
+##### Welcome to my website! I am a Data Scientist👩🏻‍💻, an Astronomy Enthusiast🔭 and a Nature lover🍃. I am proficient in Python, R, SQl and have experience in implementing these tools for analyzing and drawing data driven insights for real world data. Take a look at some of my works below. 
 
 
 
@@ -14,16 +14,13 @@
 #### EDA and Visualization Projects
 - [Exploratory Data Analysis of the Planet dataset from NASA Exoplanet Archive](https://github.com/Abhinagit24/homework-4-problem-4-exploratory-data-analysis-Abhinagit24.git)
 - [Visual Analysis of Palmer Penguin dataset](https://github.com/Abhinagit24/Data-Visualization-lab3.git)
+- [Galaxy Evolution - Undergrad research](https://github.com/Abhinagit24/galaxy-research-2021.git)
+- [Data Analytics projects in python, SQL and Tableau](https://github.com/Abhinagit24/data_analytics_2.git)
 
 #### Applied Statistics
 - [Applied Statistics Final Project - Heart Health Indicators](https://github.com/Abhinagit24/Applied-Statistics-Final-Project.git)
+- [Optimal Stock Portfolio Selection Using Monte Carlo Simulation](https://github.com/Abhinagit24/Optimal_portfolio_MonteCarlo_simulation.git)
 
 #### Data Engineering Projects
 - [Advanced web scraping project](https://github.com/Abhinagit24/DSEI2400_Final_Project.git)
-
-#### Undergrad research - python plot
-- [Galaxy Evolution - Undergrad research](https://github.com/Abhinagit24/galaxy-research-2021.git)
-
-#### CUNY micro-credential program - data analytics
-- [Data Analytics projects in python, SQL and Tableau](https://github.com/Abhinagit24/data_analytics_2.git)
 
